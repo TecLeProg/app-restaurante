@@ -1,0 +1,21 @@
+ion-card {
+  position: relative;
+  text-align: center;
+}
+
+.card-title {
+  position: relative;
+  top: 79%;
+  font-size: 2.0em;
+  width: 70%;
+  font-weight: bold;
+  color: rgb(15, 1, 1);
+}
+
+.card-subtitle {
+  font-size: 1.3em;
+  position: relative;
+  top: 90%;
+  width: 100%;
+  color: rgb(245, 8, 8);
+}
